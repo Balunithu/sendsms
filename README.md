@@ -1,4 +1,4 @@
-# Ex.No:6 Design an android application Send SMS using Intent.
+# Ex.No:3 Design an android application Send SMS using Intent.
 # Developed By: Nithya shree B
 # Reg No: 212223220071
 
